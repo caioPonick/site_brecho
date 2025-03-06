@@ -16,6 +16,14 @@ body{
     height: 100px;
 }
 
+<<<<<<< HEAD
 #rodape{
     background-color: rgb(143, 65, 81);
 }
+=======
+#titulo_produtos{
+    text-align: center;
+    font-size: 35px;
+    background-color: rgb(143, 65, 81);
+}
+>>>>>>> c470b5f26ee2379dcd0678a7d6f7fae5bdaf99c9
