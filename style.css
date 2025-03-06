@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#cabecalho{
+    display: flex;
+    justify-content: space-around;
+    padding: 80px;
+    background-color: rgb(143, 65, 81);
+    color: white;
+}
+
+#logo_brecho{
+    width: 100px;
+    height: 100px;
+}
