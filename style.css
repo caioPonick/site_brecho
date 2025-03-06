@@ -197,26 +197,26 @@ input:checked + label .description {
     background-image: url(fotos/fotojaqueta.jpg);
 }
 .card[for="c5"] {
-    background-image: url(fotos/calcabrum.HEIC);
+    background-image: url(fotos/calcabrum.jpg);
 }
 .card[for="c6"] {
-    background-image: url(fotos/bermuda_caio.JPG);
+    background-image: url(fotos/calcaLeonardo.jpg);
 }
 .card[for="c7"] {
-    background-image: url(fotos/relogio_caio.jpg);
+    background-image: url(fotos/camisetaabrum.jpg);
 }
 .card[for="c8"] {
-    background-image: url(fotos/fotojaqueta.jpg);
+    background-image: url(fotos/camisetaLeonardo.jpg);
 }
 .card[for="c9"] {
-    background-image: url(fotos/camiseta_caio.JPG);
+    background-image: url(fotos/corrente.jpg);
 }
 .card[for="c10"] {
-    background-image: url(fotos/bermuda_caio.JPG);
+    background-image: url(fotos/fotorelógio.jpg);
 }
 .card[for="c11"] {
-    background-image: url(fotos/relogio_caio.jpg);
+    background-image: url(fotos/fotoshorts.jpg);
 }
 .card[for="c12"] {
-    background-image: url(fotos/fotojaqueta.jpg);
+    background-image: url(fotos/Leonardo.jpg);
 }
