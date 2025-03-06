@@ -35,4 +35,15 @@ body{
 .txt_sobre{
     margin: 20px;
     font-family: 'Times New Roman', Times, serif;
+#titulo_produtos{
+    text-align: center;
+    font-size: 35px;
+    color: rgb(143, 65, 81);
+}
+
+#rodape{
+    text-align: center;
+    padding: 50px;
+    background-color: rgb(143, 65, 81);
+    color: white;
 }
