@@ -220,3 +220,8 @@ input:checked + label .description {
 .card[for="c12"] {
     background-image: url(fotos/Leonardo.jpg);
 }
+
+a{
+    color: white;
+    text-decoration: none;
+}
