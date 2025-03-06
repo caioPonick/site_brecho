@@ -15,3 +15,24 @@ body{
     width: 100px;
     height: 100px;
 }
+
+.jaqueta_img{
+    width: 250px;
+    height: 300px;
+}
+
+#sobre{
+    background-color: rgb(204, 198, 188);
+}
+
+.txt_font{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+#jaqueta{
+    
+}
+.txt_sobre{
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
