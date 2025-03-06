@@ -17,5 +17,6 @@ body{
 }
 
 #titulo_produtos{
-    display: flex;
+    text-align: center;
+    font-size: 35px;
 }
