@@ -48,3 +48,12 @@ body{
     background-color: rgb(143, 65, 81);
     color: white;
 }
+
+#bemvindo{
+    text-align: center;
+    margin: 70px;
+}
+
+#titulo_bemvindo{
+    margin: 90px;
+}
