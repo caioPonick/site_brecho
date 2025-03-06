@@ -108,7 +108,7 @@ body{
     height: 400px;
     display: flex;
     flex-wrap: nowrap;
-    justify-content: star;
+    justify-content: start;
 }
 
 .card{
