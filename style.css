@@ -22,7 +22,7 @@ body{
 }
 
 #sobre{
-    background-color: rgb(204, 198, 188);
+    background-color: rgb(255, 255, 255);
 }
 
 .txt_font{
@@ -30,11 +30,12 @@ body{
 
 }
 #jaqueta{
-    
+
 }
 .txt_sobre{
     margin: 20px;
     font-family: 'Times New Roman', Times, serif;
+}
 #titulo_produtos{
     text-align: center;
     font-size: 35px;
