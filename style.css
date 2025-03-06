@@ -19,6 +19,9 @@ body{
 .jaqueta_img{
     width: 250px;
     height: 300px;
+    border-style: solid;
+    border-color: black;
+    margin: 20px;
 }
 
 #sobre{
@@ -30,7 +33,7 @@ body{
 
 }
 #jaqueta{
-
+ 
 }
 .txt_sobre{
     margin: 20px;
