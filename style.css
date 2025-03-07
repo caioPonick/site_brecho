@@ -225,3 +225,18 @@ a{
     color: white;
     text-decoration: none;
 }
+
+#popup{
+    position: fixed;
+    background-color: rgba(0, 0, 0, 0.7);
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    border: 3px solid rgb(143, 65, 81);
+    padding: 20px;
+    color: white;
+}
+
+.itens_pop{
+    margin: 20px;
+}
