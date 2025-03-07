@@ -240,3 +240,8 @@ a{
 .itens_pop{
     margin: 20px;
 }
+
+#txt_box{
+    width: 600px;
+    text-align: justify;
+}
